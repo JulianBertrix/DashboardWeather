@@ -9,4 +9,4 @@ sur phpMyAdmin :
  
  # Autre
  
- creer votre vost.
+ créer votre vost.
